@@ -7,6 +7,6 @@ You can:
  - Change the color of the 'dislike' bar
  - Reset colors to the default ones
 
-Fell free to request any additional functionality or improve this extention via GitHub
+Fell free to request any additional functionality or commit any changes
 
 ![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
