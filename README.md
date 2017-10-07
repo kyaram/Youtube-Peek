@@ -9,4 +9,7 @@ You can:
 
 Fell free to request any additional functionality or commit any changes
 
+# Demo
+https://chrome.google.com/webstore/detail/youtube-peek/klniadbfojblappbomdmjhpflopoalmk
+
 ![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
